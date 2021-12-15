@@ -1,1 +1,4 @@
+git config --global user.name "gjuu"
+git config --global user.email hkjcom96@naver.com
+
 4
